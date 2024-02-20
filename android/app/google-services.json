@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209866905734",
+    "project_id": "legiindia",
+    "storage_bucket": "legiindia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209866905734:android:a2ac411fed1ac92d2f9907",
+        "android_client_info": {
+          "package_name": "com.legiapp.legiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3ItzRvoxMH-FXJBfM9S8rp99X32Pz7X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
